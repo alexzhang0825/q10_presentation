@@ -1,0 +1,30 @@
+---
+title: "Group 23 Presentation"
+subtitle: "presented by Hongyang Zhang"
+author: "Chris Gao, Andy Zhang, Sara Xia, Hongyang Zhang"
+date: "Sept 22nd 2023"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle
+
+#Welcome to our slides
+
+---
+# First code chunk
+
+```{r code_chunk_1, eval=FALSE, tidy=FALSE}
+print('This code chunk prints')
+```
+
+---
+#Thank you for your time
+
+```{r code_chunk_bye, eval=FALSE, tidy=FALSE}
+print('Good bye')
+```
