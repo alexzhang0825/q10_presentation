@@ -18,13 +18,13 @@ class: center, middle
 ---
 # First code chunk
 
-```{r code_chunk_1, eval=FALSE, tidy=FALSE}
+```{r code_chunk_1, tidy=FALSE}
 print('This code chunk prints')
 ```
 
 ---
 #Thank you for your time
 
-```{r code_chunk_bye, eval=FALSE, tidy=FALSE}
+```{r code_chunk_bye, tidy=FALSE}
 print('Good bye')
 ```
